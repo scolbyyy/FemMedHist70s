@@ -1,0 +1,192 @@
+/* TURQUOISE - #75c8ae */
+/* DARK BROWN - #2e1503 */
+/* CREAM - #fff8e7 */
+/* ORANGE - #e5771e */
+/* LIGHT ORANGE - #f4a127 */
+/* DARK GREEN-BLUE - #30534E */
+
+
+
+
+html {
+}
+
+body {
+	font-family: 'Libre Franklin', sans-serif;
+	margin:  50px;
+	font-size:  18px;
+	background: #30534E;
+	color: #fff8e7;
+}
+
+header {
+}
+
+h1 {
+	font-family:  'Righteous', serif;
+	font-weight: normal;
+	font-size: 100px;
+	margin-top:  10px;
+	text-align:  center;
+	color: #fff8e7;
+
+	text-shadow:
+		5px 5px #f4a127,
+		10px 10px #e5771e,
+		15px 15px #2e1503;
+}
+
+h2 {
+	font-size:  60px;
+	font-family: 'Monoton', sans-serif;
+	font-weight:  normal;
+	text-align:  center;
+	margin-top:  10px;
+	margin-bottom:  70px;
+}
+
+nav {
+	line-height: 150%;
+	text-align:  center;
+	padding:  20px;
+	margin-bottom:  50px;
+}
+
+nav a {
+	display:  inline-block;
+	text-align:  left;
+	font-size:  20px;
+	color:  black;
+	text-decoration: none;
+}
+nav a:link {
+	color:  black;
+	text-decoration: none;
+}
+nav a:visited {
+	color:  black;
+	text-decoration: none;
+}
+nav a:before {
+	color:  black;
+	text-decoration: none;
+}
+nav a:hover {
+	color:  black;
+	text-decoration: underline;
+}
+
+.image {
+	width:  50%;
+	margin:  auto;
+	background: #fff8e7;
+	color: #30534E;
+	padding: 25px;
+
+	box-shadow:
+		5px 5px #fff8e7,
+		-5px -5px #fff8e7,
+		10px 10px #f4a127,
+		-10px -10px #f4a127,
+		15px 15px #e5771e,
+		-15px -15px #e5771e,
+		20px 20px #5a3d2b,
+		-20px -20px #5a3d2b;
+	border-radius:  20px;
+}
+
+img {
+	width:  100%;
+}
+
+.caption {
+	text-align: center;
+}
+
+article {
+	width: 50%;
+	margin:  auto;
+	margin-top: 70px;
+	background: #fff8e7;
+	color: #30534E;
+	padding:  25px;
+
+	box-shadow:
+		5px 5px #fff8e7,
+		-5px -5px #fff8e7,
+		10px 10px #f4a127,
+		-10px -10px #f4a127,
+		15px 15px #e5771e,
+		-15px -15px #e5771e,
+		20px 20px #5a3d2b,
+		-20px -20px #5a3d2b;
+	border-radius:  20px;
+}
+
+article p {
+	line-height: 150%;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+h3 {
+	font-family: 'Righteous', sans-serif;
+	text-align:  center;
+	font-weight:  normal;
+	font-size: 50px;
+}
+
+.vid {
+	width:  50%;
+	margin:  auto;
+	margin-top:  75px;
+
+	background: #fff8e7;
+	color: #30534E;
+	padding:  25px;
+
+	box-shadow:
+		5px 5px #fff8e7,
+		-5px -5px #fff8e7,
+		10px 10px #f4a127,
+		-10px -10px #f4a127,
+		15px 15px #e5771e,
+		-15px -15px #e5771e,
+		20px 20px #5a3d2b,
+		-20px -20px #5a3d2b;
+	border-radius:  20px;
+}
+
+iframe {
+	width:  100%;
+}
+
+aside {
+	width:  50%;
+	margin:  auto;
+	margin-top: 75px;
+	padding-bottom:  20px;
+
+	background: #fff8e7;
+	color: #30534E;
+	padding:  25px;
+
+	box-shadow:
+		5px 5px #fff8e7,
+		-5px -5px #fff8e7,
+		10px 10px #f4a127,
+		-10px -10px #f4a127,
+		15px 15px #e5771e,
+		-15px -15px #e5771e,
+		20px 20px #5a3d2b,
+		-20px -20px #5a3d2b;
+	border-radius:  20px;
+}
+
+summary {
+}
+
+footer {
+	margin-top: 50px;
+	text-align:  center;
+}
